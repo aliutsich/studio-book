@@ -15,40 +15,40 @@ Start and within moment your IDE screen appears with a terminal to your own remo
 The feature set of the IDE includes all the cloud9 IDE features with extra modules to work with the Ethereum blockchain.
 
  
-    Built-in terminal, with npm and basic Unix commands
+    Встроенный терминал с поддержкой npm и основных команд Unix
     
-    Code completion for snippets and identifiers
+    Завершение кода для сниппетов и идентификаторов
     
-    Real-time language analysis for JavaScript
+    Анализ JavaScript в реальном времени
     
-    Variable/function name refactoring for JavaScript
+    Рефакторинг имен переменных и функций JavaScript
     
-    Parenthesis, bracket, and quote character matching
+    Сопоставление скобок, квадратных скобок и кавычек
     
-    Line numbers, warnings, and errors in the gutter
+    Номера строк, предупреждения и ошибки in the gutter
     
-    Debugger
+    Отладчик
     
-    Tabbed file management
+    Управление файлами с помощью вкладок
     
-    Themes
+    Темы
     
-    Customizable key-bindings, including presets for [Vim](https://www.linux.com/learn/vim-101-beginners-guide-vim), Emacs, and [Sublime](http://www.sublimetext.com/) Text
+    Настраиваемые сочетания клавиш, включая пресеты для [Vim](https://www.linux.com/learn/vim-101-beginners-guide-vim), Emacs и [Sublime](http://www.sublimetext.com/) Text
     
-    Built in Image Editor
+    Встроенный редактор изображений
     
-    Code reformatting via JSBeautify and CSSLint
+    Форматирование кода с помощью JSBeautify и CSSLint
     
-    Ability to drag-and-drop files into your project
+    Перетаскивание файлов в проект
     
-    Support for the code repositories:
+    Поддерживаемые репозитории кода:
         GitHub
         Bitbucket
-        Mercurial repositories
-        Git repositories
-        FTP servers
+        Mercurial
+        Git
+        FTP-серверы
         
-    Support for deployment to:
+    Платформы для развертывания:
         [Heroku](https://www.heroku.com/)
         [Joyent](https://www.joyent.com/)
         [Openshift](https://www.openshift.com/)
@@ -56,12 +56,12 @@ The feature set of the IDE includes all the cloud9 IDE features with extra modul
         Google App Engine
         SFTP/FTP
     
-    Syntax highlighting 
+    Выделение синтаксических элементов 
 
     
-Features specific to Ethereum Studio include: 
-      Sandbox: a private blockchain you can use to test and debug your contracts
-      Built in web3.js node module and much more...
+Специфичные возможности Ethereum Studio: 
+      Песочнийа: закрытый блокчейн для тестирования и отладки контрактов
+      Встроенный node-модуль web3.js и многое другое...
       
       
 
